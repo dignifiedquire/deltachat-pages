@@ -41,7 +41,7 @@ file_filter = translations/delta-chat-pages.referencespo/<lang>.po
 source_lang = en
 type = PO
 
-[delta-chat-pages.verify_downloadspo]
-file_filter = translations/delta-chat-pages.verify_downloadspo/<lang>.po
+[delta-chat-pages.verifiy-downloadspo]
+file_filter = translations/delta-chat-pages.verify-downloadspo/<lang>.po
 source_lang = en
 type = PO

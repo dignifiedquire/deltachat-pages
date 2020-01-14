@@ -1,5 +1,5 @@
 ---
-title: Get Delta Chat
+title: Скачать Delta Chat
 lang: ru
 downloads: true
 ---
@@ -10,17 +10,18 @@ downloads: true
 
 
 
-# Links
+## Список изменений
 
-* [FAQ multiclient](help#multiclient) page on how to synchronize Desktop with another Delta app. 
-* [Verify Downloads](verify_downloads.html)
-
-## Changelogs
-
-* [Desktop](https://github.com/deltachat/deltachat-desktop/blob/master/CHANGELOG.md)
+* [ПК](https://github.com/deltachat/deltachat-desktop/blob/master/CHANGELOG.md)
 * [Android]({% include changelog-url %})
 * [iOS](https://github.com/deltachat/deltachat-ios/blob/master/CHANGELOG.md)
-* [Core](https://github.com/deltachat/deltachat-core-rust/blob/master/CHANGELOG.md)
+* [Ядро](https://github.com/deltachat/deltachat-core-rust/blob/master/CHANGELOG.md)
 
-## Preview Builds:
-* [Desktop](https://download.delta.chat/desktop/preview/)
+## Ссылки
+
+* [База данных провайдеров](https://providers.delta.chat/): работает ли мой провайдер с Delta Chat?
+* [FAQ мультиклиентский](help#multiclient): информация о синхронизации версии ПК с другими клиентами Delta Chat.
+* [Проверка загрузок](verify-downloads): проверка целостности данных загрузок.
+
+## Предварительные сборки:
+* [ПК](https://download.delta.chat/desktop/preview/)
