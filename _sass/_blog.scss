@@ -33,7 +33,7 @@
   h2 {
     margin-top: 0;
     font-weight: 400;
-    font-size: 44px;
+    font-size: 2em;
     line-height: 50px;
   }
 
@@ -72,6 +72,10 @@
 @media screen and (max-width: $grid-mobile-breakpoint) {
   .post-box {
     flex-direction: column;
+  }
+  .post-box .featured-image {
+    width: 90%;
+    height: 200px;
   }
 }
 
